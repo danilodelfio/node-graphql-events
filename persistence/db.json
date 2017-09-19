@@ -1,0 +1,30 @@
+{
+    "events" : [
+        { "id": "1", "name" :"Pool party", "date": "15/08/2017",
+            "location": { "id":"001", "name": "My way,87", "latitude":"39.2254656", "longitude":"9.0933587"},
+            "organizer": { "id":"001", "name":"Danilo Del Fio", "age":44},
+            "attendees": [ 
+                { "id":"001", "name":"Danilo Del Fio", "age":44},
+                { "id":"002", "name":"Daenerys Targaryen", "age":30}
+            ]
+        },
+        { "id":"2", "name":"Christmas", "date":"25/12/2017",
+            "location": { "id":"002", "name": "Piazza del Colosseo, 1", "latitude":"41.890474", "longitude":"12.492274"},
+            "organizer": { "id":"001", "name":"Danilo Del Fio", "age":44},
+            "attendees": [ 
+                { "id":"001", "name":"Danilo Del Fio", "age":44},
+                { "id":"004", "name":"Jon Snow", "age":30},
+                { "id":"005", "name":"Sansa Stark", "age":21}
+            ]
+        },
+        { "id":"3", "name":"New Years day 2018", "date": "31/12/2017",
+            "location": { "id":"003", "name": "Manhattan, NY 10036, USA", "latitude":"40.759147", "longitude":"-73.985142"},
+            "organizer": { "id":"001", "name":"Danilo Del Fio", "age":44},
+            "attendees": [ 
+                { "id":"001", "name":"Danilo Del Fio", "age":44},
+                { "id":"006", "name":"Tyrion Lannister", "age":48},
+                { "id":"007", "name":"Catelyn Stark", "age":54}
+            ]
+        }
+    ]
+}

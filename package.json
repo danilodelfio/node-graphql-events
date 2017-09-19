@@ -1,0 +1,25 @@
+{
+  "name": "graphql-events",
+  "version": "1.0.0",
+  "description": "Simple GraphQL server for events managing",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server.js",
+    "json:server": "json-server --watch persistence/db.json"
+  },
+  "keywords": [
+    "node",
+    "graphql",
+    "events"
+  ],
+  "author": "Danilo Del Fio",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.2",
+    "json-server": "^0.12.0",
+    "nodemon": "^1.12.0"
+  }
+}
