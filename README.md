@@ -4,7 +4,7 @@ Simple boilerplate to start with GraphQL server wrapping some REST APIs.
 
 ## Getting Started
 
-You can read the related [Medium post](https://medium.com/@ddelfio/rest-api-or-graphql-that-is-the-question-f41c0991d3c8)
+You can read [my post on Medium](https://medium.com/@ddelfio/rest-api-or-graphql-that-is-the-question-f41c0991d3c8)
 
 
 ### Installing & run
