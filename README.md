@@ -44,7 +44,7 @@ With another terminal you can launch the GraphQL server with the command:
 npm run dev:server
 ```
 
-This command will start our express-graphql server on port 4000. Pointing your browser to http://localhost:4000/http://localhost:4000/graphql you can start writing your requests. The GraphiQL tool let us to interrogate our GraphQL server with autocomplete and a navigable documentation (on the right of the window).
+This command will start our express-graphql server on port 4000. Pointing your browser to http://localhost:4000/graphql you can start writing your requests. The GraphiQL tool let us to interrogate our GraphQL server with autocomplete and a navigable documentation (on the right of the window).
 Below a simple example from the example:
 
 <a href="#">
